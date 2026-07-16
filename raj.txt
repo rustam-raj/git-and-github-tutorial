@@ -1,0 +1,8 @@
+name 
+ class 
+roll 
+branch 
+registration no 
+field 
+semester 
+cgpa 
